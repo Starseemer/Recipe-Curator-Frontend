@@ -1,6 +1,7 @@
 # Recipe Curator Frontend
 
 A new Flutter project that is made to utilize recipe curator backend system.
+You can see the recipe curator backend from [here](https://github.com/Starseemer/Recipe-Curator-Backend)
 
 ## Getting Started
 
