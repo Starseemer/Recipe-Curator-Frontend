@@ -1,16 +1,16 @@
-# recipe_curator
+# Recipe Curator Frontend
 
-A new Flutter project.
+A new Flutter project that is made to utilize recipe curator backend system.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+- Before running the project make sure that the backend system is running, otherwise you will not be able login to the system.
+- To run the project in your local enviroment run ``` flutter run -d chrome ```
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- The frontend is optimized for the web platform, however the whole system can easly be optimized to any other supported platform.
+- To able to use the frontend, a user must be created from singup page.
+- The signup page later on direct user to login page. In here the user must enter the correct email, password combo.
+- After succesfuly logging in to the system, user is greated with already created recipes as cards and user can interact with them as they wish.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
